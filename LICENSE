@@ -1,4 +1,4 @@
-                                 Apache License
+                                 Apache Licence
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
 
@@ -6,11 +6,11 @@
 
    1. Definitions.
 
-      "License" shall mean the terms and conditions for use, reproduction,
+      "Licence" shall mean the terms and conditions for use, reproduction,
       and distribution as defined by Sections 1 through 9 of this document.
 
       "Licensor" shall mean the copyright owner or entity authorized by
-      the copyright owner that is granting the License.
+      the copyright owner that is granting the Licence.
 
       "Legal Entity" shall mean the union of the acting entity and all
       other entities that control, are controlled by, or are under common
@@ -63,17 +63,17 @@
       on behalf of whom a Contribution has been received by Licensor and
       subsequently incorporated within the Work.
 
-   2. Grant of Copyright License. Subject to the terms and conditions of
+   2. Grant of Copyright Licence. Subject to the terms and conditions of
       this License, each Contributor hereby grants to You a perpetual,
       worldwide, non-exclusive, no-charge, royalty-free, irrevocable
       copyright license to reproduce, prepare Derivative Works of,
       publicly display, publicly perform, sublicense, and distribute the
       Work and such Derivative Works in Source or Object form.
 
-   3. Grant of Patent License. Subject to the terms and conditions of
-      this License, each Contributor hereby grants to You a perpetual,
+   3. Grant of Patent Licence. Subject to the terms and conditions of
+      this Licence, each Contributor hereby grants to You a perpetual,
       worldwide, non-exclusive, no-charge, royalty-free, irrevocable
-      (except as stated in this section) patent license to make, have made,
+      (except as stated in this section) patent licence to make, have made,
       use, offer to sell, sell, import, and otherwise transfer the Work,
       where such license applies only to those patent claims licensable
       by such Contributor that are necessarily infringed by their
@@ -83,7 +83,7 @@
       cross-claim or counterclaim in a lawsuit) alleging that the Work
       or a Contribution incorporated within the Work constitutes direct
       or contributory patent infringement, then any patent licenses
-      granted to You under this License for that Work shall terminate
+      granted to You under this Licence for that Work shall terminate
       as of the date such litigation is filed.
 
    4. Redistribution. You may reproduce and distribute copies of the
@@ -92,7 +92,7 @@
       meet the following conditions:
 
       (a) You must give any other recipients of the Work or
-          Derivative Works a copy of this License; and
+          Derivative Works a copy of this Licence; and
 
       (b) You must cause any modified files to carry prominent notices
           stating that You changed the files; and
@@ -118,7 +118,7 @@
           notices within Derivative Works that You distribute, alongside
           or as an addendum to the NOTICE text from the Work, provided
           that such additional attribution notices cannot be construed
-          as modifying the License.
+          as modifying the Licence.
 
       You may add Your own copyright statement to Your modifications and
       may provide additional or different license terms and conditions
@@ -135,7 +135,7 @@
       the terms of any separate license agreement you may have executed
       with Licensor regarding such Contributions.
 
-   6. Trademarks. This License does not grant permission to use the trade
+   6. Trademarks. This Licence does not grant permission to use the trade
       names, trademarks, service marks, or product names of the Licensor,
       except as required for reasonable and customary use in describing the
       origin of the Work and reproducing the content of the NOTICE file.
@@ -175,7 +175,7 @@
 
    END OF TERMS AND CONDITIONS
 
-   APPENDIX: How to apply the Apache License to your work.
+   APPENDIX: How to apply the Apache Licence to your work.
 
       To apply the Apache License to your work, attach the following
       boilerplate notice, with the fields enclosed by brackets "[]"
@@ -188,7 +188,7 @@
 
    Copyright [yyyy] [name of copyright owner]
 
-   Licensed under the Apache License, Version 2.0 (the "License");
+   Licensed under the Apache Licence, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
    You may obtain a copy of the License at
 
