@@ -1,5 +1,5 @@
 /*
-    1. let and const
+    1. Let and Const
 */
 
 //ES5
@@ -110,10 +110,7 @@ var add5 = function (x, y) {
     return x + y;
 }
 console.log(add5(5,7));
-
-
 //ES6
-
 let add6 = (x, y) => x + y;
 console.log(add6(8,9));
 */
@@ -161,11 +158,11 @@ console.log(johnData6(2, 'John'));
 
 /* 5. Destructuring */
 
-const car = {
-    name: 'Agya',
-    color: 'White',
-    price: '$1000'
-};
+// const car = {
+//     name: 'Agya',
+//     color: 'White',
+//     price: '$1000'
+// };
 
 //ES5
 // const name = car.name;
@@ -271,13 +268,13 @@ const car = {
 //     7. Default Function Argument
 // */
 
-const makeAjaxRequest = (url, method = 'GET') => {
-    console.log(url, method);
-    //Some logic here
-}
+// const makeAjaxRequest = (url, method = 'GET') => {
+//     console.log(url, method);
+//     //Some logic here
+// }
 
-makeAjaxRequest('www.google.com');
-makeAjaxRequest('www.google.com', 'POST');
+// makeAjaxRequest('www.google.com');
+// makeAjaxRequest('www.google.com', 'POST');
 
 //8. Classes
 //9. Promise and Fetch
